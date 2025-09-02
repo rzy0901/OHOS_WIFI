@@ -1,0 +1,208 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Distributed Screen"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DistributedScreen"
+    },
+    {
+      "name": "device_manager",
+      "value": "Device Manager"
+    },
+    {
+      "name": "screen_mirror",
+      "value": "Screen Mirror"
+    },
+    {
+      "name": "screen_expand",
+      "value": "Screen Expand"
+    },
+    {
+      "name": "screen_start",
+      "value": "Screen Start"
+    },
+    {
+      "name": "screen_stop",
+      "value": "Screen Stop"
+    },
+    {
+      "name": "refresh_device_list",
+      "value": "Refresh device list"
+    },
+    {
+      "name": "device_name",
+      "value": "Device name"
+    },
+    {
+      "name": "device_id",
+      "value": "Device id"
+    },
+    {
+      "name": "device_type",
+      "value": "Device type"
+    },
+    {
+      "name": "device_state",
+      "value": "State"
+    },
+    {
+      "name": "auth_form",
+      "value": "Auth Form"
+    },
+    {
+      "name": "is_online",
+      "value": "is online"
+    },
+    {
+      "name": "is_trusted",
+      "value": "is trusted"
+    },
+    {
+      "name": "range",
+      "value": "range"
+    },
+    {
+      "name": "no_filter",
+      "value": "No Filter"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "support_range",
+      "value": "Support Range"
+    },
+    {
+      "name": "allowed_discovered",
+      "value": "Allowed Discovered"
+    },
+    {
+      "name": "trusted_devices",
+      "value": "Trusted Devices"
+    },
+    {
+      "name": "refresh",
+      "value": "Refresh"
+    },
+    {
+      "name": "usable_devices",
+      "value": "Usable Devices"
+    },
+    {
+      "name": "discover",
+      "value": "Discover"
+    },
+    {
+      "name": "stop",
+      "value": "Stop"
+    },
+    {
+      "name": "filter_options",
+      "value": "Filter Options"
+    },
+    {
+      "name": "delete",
+      "value": "Delete"
+    },
+    {
+      "name": "certified",
+      "value": "Certified"
+    },
+    {
+      "name": "isDelete",
+      "value": "Is Delete "
+    },
+    {
+      "name": "login",
+      "value": "Login"
+    },
+    {
+      "name": "logout",
+      "value": "Logout"
+    },
+    {
+      "name": "tablet",
+      "value": "Tablet"
+    },
+    {
+      "name": "phone",
+      "value": "Phone"
+    },
+    {
+      "name": "other",
+      "value": "Other"
+    },
+    {
+      "name": "identical_account",
+      "value": "Identical Account"
+    },
+    {
+      "name": "across_account",
+      "value": "Across Account"
+    },
+    {
+      "name": "no_account",
+      "value": "No Account"
+    },
+    {
+      "name": "online",
+      "value": "OnLine"
+    },
+    {
+      "name": "offline",
+      "value": "OffLine"
+    },
+    {
+      "name": "credible",
+      "value": "Credible"
+    },
+    {
+      "name": "incredible",
+      "value": "Incredible"
+    },
+    {
+      "name": "is_login",
+      "value": "Is Login?"
+    },
+    {
+      "name": "is_logout",
+      "value": "Is Logout?"
+    },
+    {
+      "name": "str_null",
+      "value": " "
+    },
+    {
+      "name": "screen_mirror_success",
+      "value": "Screen Mirror Success."
+    },
+    {
+      "name": "screen_mirror_fail",
+      "value": "Screen Mirror Fail!"
+    },
+    {
+      "name": "screen_mirroring",
+      "value": "Screen mirroring is in progress!"
+    },
+    {
+      "name": "no_found_screen",
+      "value": "No found Screen!"
+    },
+    {
+      "name": "not_started",
+      "value": "Not Started!"
+    }
+  ]
+}

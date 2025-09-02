@@ -1,0 +1,40 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "material": {
+          "certpath": "./signature/DistributedScreen.cer",
+          "storePassword": "0000001A0299B3947A4DE282DE0146E07C006F37C5BF1E99A1B7387DD366E700D46CA77C730FDF618386",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001AFF01BF896D6AA51084DD0EC027C6B480900C7DD5133F76DC1933324616EBC6E5CBB8B2FFFF3B",
+          "profile": "./signature/DistributedScreen.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "./signature/DistributedScreen.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compileSdkVersion": 14,
+        "compatibleSdkVersion": 14
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "DistributedScreen"
+    },
+    {
+      "name": "no_found_screen",
+      "value": "No found Screen!"
+    }
+  ]
+}
